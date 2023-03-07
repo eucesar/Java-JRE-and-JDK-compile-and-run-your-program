@@ -1,8 +1,8 @@
-<h1 align="center">Welcome to my Repositories 🤝</h1>
+align="center"<h1 align="center">Welcome to my Repositories 🤝</h1>
 <p>
-   <img align="center" alt="Cesar-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+   <img align="center" alt="Cesar-Java" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </p>
-<br>
+
 > 🌱👨‍💻 - Compile and run java code. I learned about variables and flow control. Know the main types of Java. I created the site using the Alura course.
 
 
