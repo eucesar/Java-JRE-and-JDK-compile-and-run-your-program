@@ -3,7 +3,7 @@
    <img align="center" alt="Cesar-Java" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </p>
 
-> 🌱👨‍💻 - Compile and run java code. I learned about variables and flow control. Know the main types of Java. I created the site using the Alura course.
+> 🌱👨‍💻 - Compile and run java code. I learned about variables and flow control. Know the main types of Java. I created this project using the Alura course.
 
 
 ## Download
